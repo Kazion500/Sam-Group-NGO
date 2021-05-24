@@ -4,7 +4,7 @@ function NavBar() {
   const openSearchInput = () => alert("Search..");
 
   return (
-    <nav className="bg-white sticky top-0 z-50 ">
+    <nav className="bg-white sticky top-0 z-50 hidden md:block">
       <div className="flex justify-between items-center max-w-5xl mx-auto">
         <ul className="font-bold text-sm flex py-5 ">
           <li>

@@ -10,10 +10,7 @@ const items = [
   >
     <div className="px-5 xl:px-0">
       <h4 className="text-xl lg:text-2xl">Community Founation</h4>
-      <h1
-        className="text-6xl lg:text-8xl mt-3 mb-14"
-        style={{ lineHeight: "7rem" }}
-      >
+      <h1 className="text-6xl lg:text-8xl mt-3 mb-14 leading-12 lg:leading-13">
         Why Work for <br className="lg:block hidden" /> a Charity?
       </h1>
       <div className="mt-20 flex justify-start">
@@ -28,10 +25,7 @@ const items = [
   >
     <div className="px-5">
       <h4 className="text-xl lg:text-2xl">Community Foundation</h4>
-      <h1
-        className="text-6xl lg:text-8xl mt-3 mb-14"
-        style={{ lineHeight: "7rem" }}
-      >
+      <h1 className="text-6xl lg:text-8xl mt-3 mb-14 leading-12 lg:leading-13">
         Why Work for <br className="lg:block hidden" /> a Charity?
       </h1>
       <div className="mt-20 flex justify-start">
@@ -39,17 +33,14 @@ const items = [
       </div>
     </div>
   </Carousel>,
-  
+
   <Carousel
     src="http://charity-is-hope-html.themerex.net/images/slider_1_2.jpg"
     maxWidth="max-w-5xl"
   >
     <div className="px-5">
       <h4 className="text-xl lg:text-2xl">Community Foundation</h4>
-      <h1
-        className="text-6xl lg:text-8xl mt-3 mb-14"
-        style={{ lineHeight: "7rem" }}
-      >
+      <h1 className="text-6xl lg:text-8xl mt-3 mb-14 leading-12 lg:leading-13">
         Why Work for <br className="lg:block hidden" /> a Charity?
       </h1>
       <div className="mt-20 flex justify-start">

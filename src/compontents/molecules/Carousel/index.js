@@ -2,7 +2,7 @@ function Carousel({ src, children,right,maxWidth }) {
   const handleDragStart = (e) => e.preventDefault();
   return (
     <div
-      className="h-screen bg-cover w-screen bg-no-repeat border"
+      className="h-screen bg-cover w-screen bg-no-repeat"
       style={{ backgroundImage: `url(${src})`,maxHeight: "700px"  }}
       onDragStart={handleDragStart}
     >
