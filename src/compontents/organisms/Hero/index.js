@@ -8,7 +8,7 @@ const items = [
     right
     maxWidth="max-w-7xl"
   >
-    <div className="px-5">
+    <div className="px-5 xl:px-0">
       <h4 className="text-xl lg:text-2xl">Community Founation</h4>
       <h1
         className="text-6xl lg:text-8xl mt-3 mb-14"

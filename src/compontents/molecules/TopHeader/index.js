@@ -8,7 +8,7 @@ import Button from "src/compontents/atoms/Button";
 function TopHeader() {
   return (
     <header className="bg-black py-3">
-      <div className="grid grid-cols-3 lg:flex lg:justify-between items-center px-8 md:px-4 max-w-5xl mx-auto">
+      <div className="grid grid-cols-3 lg:flex lg:justify-between items-center px-8 xl:px-0 md:px-4 max-w-5xl mx-auto">
         <button className="focus:outline-none lg:hidden">
           <FaBars size={22} className={`text-white block`} />
         </button>
