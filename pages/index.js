@@ -1,8 +1,8 @@
 import Head from "next/head";
-import NavBar from "compontents/molecules/NavBar";
-import TopHeader from "compontents/molecules/TopHeader";
-import Hero from "compontents/organisms/Hero";
-import OurMission from "compontents/organisms/OurMission";
+import NavBar from "src/compontents/molecules/NavBar";
+import TopHeader from "src/compontents/molecules/TopHeader";
+import Hero from "src/compontents/organisms/Hero";
+import OurMission from "src/compontents/organisms/OurMission";
 
 export default function Home() {
   return (
