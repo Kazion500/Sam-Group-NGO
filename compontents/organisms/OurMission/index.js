@@ -1,5 +1,5 @@
-import CardIcon from "src/compontents/molecules/CardIcon";
-import ButtonIcon from "src/compontents/atoms/ButtonIcon";
+import CardIcon from "compontents/molecules/CardIcon";
+import ButtonIcon from "compontents/atoms/ButtonIcon";
 
 function OurMission() {
   return (

@@ -1,6 +1,6 @@
-import ButtonIcon from "src/compontents/atoms/ButtonIcon";
+import ButtonIcon from "compontents/atoms/ButtonIcon";
 import AliceCarousel from "react-alice-carousel";
-import Carousel from "src/compontents/molecules/Carousel";
+import Carousel from "compontents/molecules/Carousel";
 
 const items = [
   <Carousel

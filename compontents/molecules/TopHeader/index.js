@@ -3,7 +3,7 @@ import { FaYoutube } from "@react-icons/all-files/fa/FaYoutube";
 import { FaPinterestP } from "@react-icons/all-files/fa/FaPinterestP";
 import { FaTwitter } from "@react-icons/all-files/fa/FaTwitter";
 import { FaBars } from "@react-icons/all-files/fa/FaBars";
-import Button from "src/compontents/atoms/Button";
+import Button from "compontents/atoms/Button";
 
 function TopHeader() {
   return (
