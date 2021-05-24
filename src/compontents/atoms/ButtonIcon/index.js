@@ -5,7 +5,7 @@ function ButtonIcon({ title, id }) {
     <div>
       <a
         href={id}
-        className="px-8 py-7 text-2xl hover:bg-green-400 transition delay-100 rounded items-center bg-yellow-500 flex w-max"
+        className="px-4 py-3 lg:px-8 lg:py-7 font-black lg:text-2xl cursor-pointer hover:bg-green-700 hover:text-white transition delay-100 rounded items-center bg-yellow-500 flex"
       >
         {title} <FaArrowAltCircleRight size={40} className="ml-4" />
       </a>

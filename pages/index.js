@@ -17,8 +17,6 @@ export default function Home() {
       <NavBar />
       <Hero />
       <OurMission />
-
-      <section></section>
     </div>
   );
 }

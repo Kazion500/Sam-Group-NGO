@@ -3,7 +3,7 @@ import React from "react";
 function NavBar() {
     return (
         <nav className='bg-white'>
-            <ul className="font-bold text-sm flex py-7 max-w-6xl mx-auto">
+            <ul className="font-bold text-sm flex py-5 max-w-5xl mx-auto">
                 <li>
                     <a className='pr-7 pl-4 py-4 hover:text-green-400 transition delay-100' href="#home">HOME</a>
                 </li>

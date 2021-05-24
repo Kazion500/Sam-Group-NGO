@@ -1,13 +1,9 @@
-import React from "react";
-
-function CardIcon() {
+function CardIcon({ src, content }) {
   return (
-    <figure>
-      <img src="http://charity-is-hope-html.themerex.net/index.html#" alt="" />
-      <figcaption>
-        <p>
-          Promoting the right and wellbeing of every child, in everything we do.
-        </p>
+    <figure className="items-center text-center flex flex-col">
+      <img className="" src={src} alt="" />
+      <figcaption className="mt-5 font-bold w-72 lg:text-xl text-green-700">
+        <p>{content}</p>
       </figcaption>
     </figure>
   );
